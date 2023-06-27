@@ -1,8 +1,8 @@
 void main() {
 //Tipo double (numero con decimales )
 
-  int num1 = 2;
-  double num2 = 2.5;
-  double suma = num1 + num2;
-  print(suma);
+  double num1 = 3.4;
+  double num2 = 5.1;
+  double resta = num2 - num1;
+  print('la resta de dos numeros es : $resta');
 }
