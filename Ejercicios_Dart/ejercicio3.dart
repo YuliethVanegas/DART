@@ -1,7 +1,5 @@
 void main() {
-  print("Hola Mundo!");
-
-//Tipo double (numero )
+//Tipo double (numero con decimales )
 
   int num1 = 2;
   double num2 = 2.5;
